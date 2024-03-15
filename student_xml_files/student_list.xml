@@ -1,0 +1,12 @@
+<students>
+    <student>
+        <name>hieu</name>
+        <age>18</age>
+        <gpa>4.0</gpa>
+    </student>
+    <student>
+        <name>phuoc</name>
+        <age>18</age>
+        <gpa>3.9</gpa>
+    </student>
+</students>
